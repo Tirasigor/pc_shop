@@ -1,0 +1,68 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+h1 {
+	color: blue;
+}
+h2{
+	color: indianred;
+}
+/*.text .paragraph {
+	color:lightslategray;
+}*/
+#paragraf2 {
+	color: palegreen;
+}
+.text .paragraph2 {
+	color: mediumpurple;
+}
+div.text {
+	color: orange;
+}
+span{
+	color: yellowgreen;
+}
+.paragraph6 {
+	color: royalblue;
+}
+div h4 {
+	color: aquamarine;
+}
+.paragraph{
+	color: firebrick;
+}
+.zagolovok4 span {
+	color: gold;
+}
+.paragraph3,
+.paragraph5,
+main{
+	color: hotpink;
+}
